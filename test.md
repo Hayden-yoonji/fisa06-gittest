@@ -36,7 +36,9 @@ __진하게__
 ## 링크 바로가기 
 [네이버로 가기](http://naver.com)
 
--이미지링크 ![깨졌을때 설명](실제 url)
+-이미지링크 ![폼폼푸린](https://github.com/Hayden-yoonji/fisa06-gittest/blob/main/%ED%8F%BC%ED%8F%BC%ED%91%B8%EB%A6%B0.png)
+
+![폼폼푸린](https://github.com/Hayden-yoonji/fisa06-gittest/blob/main/%ED%8F%BC%ED%8F%BC%ED%91%B8%EB%A6%B0.png)
 
 ```
 hello
